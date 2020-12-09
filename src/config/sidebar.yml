@@ -8,6 +8,14 @@
   items:
     - label: 'Wiki編集（GitHub ver.）'
       link: '/wiki/howto'
+- label: SocialLikes
+  items:
+    - label: '0~1999'
+      link: '/sociallikes/0-1999'
+    - label: '2000~3999'
+      link: '/sociallikes/2000-3999'
+    - label: '4000~5999'
+      link: '/sociallikes/4000-5999'
 - label: Community
   items:
     - label: 'Github'

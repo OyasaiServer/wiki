@@ -241,7 +241,7 @@ export default function EnhancedTable() {
                         const name = <p id={`userphoto${i}`}/>
                         const teleport = <Button
                             variant="contained"
-                            color="primary"
+                            color="secondary"
                             onClick={() => {
                                 fetch(
                                     `https://api.baakun.com:3000/api/tp/${it.world}/${it.x}/${it.y}/${it.z}`,

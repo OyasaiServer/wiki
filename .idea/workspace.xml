@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="58731ba7-ea0d-42ee-9ff1-6d78917fd82a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@rocketseat/gatsby-theme-docs/text/index.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/src/@rocketseat/gatsby-theme-docs/text/index.mdx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,21 +90,6 @@
       <recent name="C:\Users\shunu\Documents\dev\OyasaiServer\wiki\.github\workflows" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -124,7 +110,8 @@
       <workItem from="1607389517795" duration="6423000" />
       <workItem from="1607419147362" duration="15503000" />
       <workItem from="1607520605654" duration="3472000" />
-      <workItem from="1607530935167" duration="11761000" />
+      <workItem from="1607530935167" duration="13160000" />
+      <workItem from="1607602478966" duration="341000" />
     </task>
     <servers />
   </component>
@@ -171,9 +158,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1016" y="145" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1607421330520" />
-    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1607464957948">
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1607602516766">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607464957948" />
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607602516766" />
   </component>
 </project>
